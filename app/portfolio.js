@@ -3,6 +3,7 @@ export const portfolioData = {
     name: "Muhammad Saleem",
     email: "msaleem.research@gmail.com",
   },
+  // Achievement Timeline Data
   sections: {
     "Coding Competitions": [
       {
@@ -19,7 +20,6 @@ export const portfolioData = {
           },
         ],
       },
-
       {
         title: "Meta Hacker Cup 2025",
         Rank: "1542 / 13779",
@@ -78,7 +78,10 @@ export const portfolioData = {
         Organizer: "Google Research",
         Links: [
           { label: "Code", url: "https://github.com/msaleem-aisci/medgemma" },
-          { label: "Explore Submission", url: "https://devpost.com/..." },
+          {
+            label: "Explore Submission",
+            url: "https://devpost.com/software/gemmasight",
+          },
         ],
       },
       {
@@ -130,5 +133,13 @@ export const portfolioData = {
         ],
       },
     ],
+  },
+  // Formal Documents Data (Ensure these files are in your /public folder)
+  documents: {
+    CV: "/CV.pdf",
+    "IELTS Report": "/IELTS-TRF.pdf",
+    "Academic Transcript": "/Transcript.pdf",
+    // Transcript: "/Transcript.pdf",
+    // "Recommendation Letter": "/LOR.pdf",
   },
 };
