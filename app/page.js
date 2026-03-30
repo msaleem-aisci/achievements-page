@@ -39,7 +39,7 @@ export default function Home() {
             className="mt-6 flex items-center gap-2 px-6 py-2.5 bg-heading-dark text-white text-xs font-semibold rounded-lg hover:bg-slate-800 transition-all shadow-sm active:scale-95"
           >
             <FileText size={14} />
-            Download CV
+            View CV
           </a>
         </div>
 
