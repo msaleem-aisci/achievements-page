@@ -77,26 +77,19 @@ export const portfolioData = {
         Domain: "Healthcare AI",
         Organizer: "Google Research",
         Links: [
-          { label: "Code", url: "https://github.com/msaleem-aisci/medgemma" },
-          {
-            label: "Explore Submission",
-            url: "https://devpost.com/software/gemmasight",
-          },
+          { label: "Code", url: "https://github.com/msaleem-aisci/gemmasight" },
+
         ],
       },
       {
         title: "LIVE AI Ivy Plus Hackathon 2026",
-        Project: "Chrono-GlioNET",
+        Project: "Hypo-TCN",
         Domain: "Healthcare AI",
         Organizer: "Ivy Plus Universities",
         Links: [
           {
             label: "Code",
-            url: "https://www.kaggle.com/code/xpertdl/ivy-hackathon",
-          },
-          {
-            label: "Explore Submission",
-            url: "https://devpost.com/software/chrono-glionet",
+            url: "https://github.com/msaleem-aisci/IVY-hackathon",
           },
         ],
       },
