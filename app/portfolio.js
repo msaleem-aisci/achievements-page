@@ -89,7 +89,7 @@ export const portfolioData = {
         Links: [
           {
             label: "Code",
-            url: "https://github.com/msaleem-aisci/IVY-hackathon",
+            url: "https://github.com/msaleem-aisci/hypo-tcn",
           },
         ],
       },
